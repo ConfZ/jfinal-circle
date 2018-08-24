@@ -47,9 +47,9 @@
 	</repositories>
 	<dependencies>
 		<dependency>
-	<groupId>org.apache.stratos</groupId>
-	<artifactId>apache-stratos-cartridge-agent</artifactId>
-	<version>4.1.1</version>
+	<groupId>org.apache.atlas</groupId>
+	<artifactId>atlas-dashboardv2</artifactId>
+	<version>0.7-incubating</version>
 	</dependency>
 	</dependencies>
 	
